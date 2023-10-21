@@ -1,7 +1,7 @@
 ### Assignments
 Render Deploy link: https://cse341-anastasiayazvinskaya.onrender.com/
 
-#### L01 
+#### W01 
 * Github code: https://github.com/AnastasiaYazvinskaya/CSE341-F23-AnastasiaYazvinskaya/tree/W01
 * Video Demonstration: [Youtube link]()
 * Render: 
