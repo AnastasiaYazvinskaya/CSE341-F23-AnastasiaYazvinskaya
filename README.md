@@ -1,10 +1,9 @@
 ### Assignments
-Render Deploy link: https://cse341-s23-anastasiayazvinskaya.onrender.com/
+Render Deploy link: https://cse341-anastasiayazvinskaya.onrender.com/
 
 #### L01 
-* Github code: https://github.com/AnastasiaYazvinskaya/CSE341-S23-AnastasiaYazvinskaya/tree/W01
-* Video Demonstration link: [Youtube link](https://youtu.be/pySwaSbZVQc)
-
-#### L02 
-* Github code: https://github.com/AnastasiaYazvinskaya/CSE341-S23-AnastasiaYazvinskaya/tree/W02
-* Video Demonstration link: [Youtube link](https://youtu.be/G5hp0qajlE0)
+* Github code: https://github.com/AnastasiaYazvinskaya/CSE341-F23-AnastasiaYazvinskaya/tree/W01
+* Video Demonstration: [Youtube link]()
+* Render: 
+  All: https://cse341-anastasiayazvinskaya.onrender.com/contacts
+  Single (Anastasia Yazvinskaya): https://cse341-anastasiayazvinskaya.onrender.com/contacts/64861d6ea2f45b356e0249b7
